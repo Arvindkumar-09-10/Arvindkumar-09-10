@@ -1,11 +1,215 @@
 <h1 align="center">Hi 👋, I'm Aravind Kumar</h1>
-<h3 align="center">CSE(AI & ML) student</h3>
 
-- 📫 How to reach me **aravind59758@gmail.com**
+<h3 align="center">CSE (AI & ML) Student | Aspiring AI/ML Developer | Software & App Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:aravind59758@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aravind59758%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Aravind%20Kumar-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech student specializing in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision**
+* 📱 Exploring **Android and Flutter application development**
+* 💻 Experienced with **Python, Java, C, JavaScript and SQL**
+* 🌐 Interested in **Full-Stack Development and Cloud Technologies**
+* 🧠 Currently improving my skills in **AI/ML, Deep Learning and software development**
+* 🚀 I enjoy building practical projects that solve real-world problems
+* 📫 Reach me at **[aravind59758@gmail.com](mailto:aravind59758@gmail.com)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🎥 Suspicious Human Activity Recognition From Surveillance Videos
+
+A deep-learning-based surveillance system designed to identify suspicious human activities from video footage.
+
+**Technologies:**
+
+* Python
+* Deep Learning
+* Computer Vision
+* OpenCV
+* TensorFlow/Keras
+* ImageAI
+* Tkinter
+
+**Key Features:**
+
+* 🎞️ Video input and frame extraction
+* 🤖 AI-based activity recognition
+* 👁️ Computer vision processing
+* 🖥️ Desktop GUI for interaction
+* 📊 Classification of detected activities
+
+---
+
+### 📱 SGPA & CGPA Calculator + Normal Calculator
+
+An Android application combining an academic GPA calculator with a regular calculator.
+
+**Features:**
+
+* 🎓 SGPA calculation
+* 📚 CGPA calculation
+* 🧮 Normal calculator
+* 📱 Mobile-friendly interface
+* ⚡ Simple and easy-to-use design
+
+**Technologies:**
+Flutter • Dart • Firebase
+
+---
+
+### 🧠 AI-Based Mental Health Sentiment Analyzer
+
+An AI-focused application concept designed to analyze the sentiment of user-provided text.
+
+**Core Areas:**
+
+* Natural Language Processing
+* Sentiment Analysis
+* Machine Learning
+* AI-powered text analysis
+* Frontend & Backend integration
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
+</p>
+
+### 🤖 AI / ML / Data Science
+
+<p align="left">
+<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/></a>
+<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/></a>
+</p>
+
+### 🌐 Web & Application Development
+
+<p align="left">
+<a href="https://developer.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android"/></a>
+<a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="left">
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/></a>
+<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="Google Cloud"/></a>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
+<a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/></a>
+</p>
+
+---
+
+## 📚 Areas I'm Learning
+
+```text
+Artificial Intelligence       ███████████████░░░░░
+Machine Learning              ██████████████░░░░░░
+Deep Learning                 █████████████░░░░░░░
+Computer Vision               █████████████░░░░░░░
+Natural Language Processing   ███████████░░░░░░░░░
+Android Development           ███████████░░░░░░░░░
+Full-Stack Development        ██████████░░░░░░░░░░
+Cloud Computing               ████████░░░░░░░░░░░░
+```
+
+---
+
+## 🎯 Current Goals
+
+* 🔬 Build more **AI/ML and Deep Learning projects**
+* 👁️ Explore **Computer Vision applications**
+* 📱 Develop useful **Android/Flutter applications**
+* 🌐 Improve **Full-Stack Development** skills
+* ☁️ Learn more about **Cloud and AI deployment**
+* 💼 Prepare for **software development and AI/ML opportunities**
+* 🚀 Build a strong portfolio through practical projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 What I Like Building
+
+```text
+🤖 AI & Machine Learning
+👁️ Computer Vision
+🧠 NLP & Sentiment Analysis
+📱 Android & Flutter Apps
+🌐 Web Applications
+🗄️ Database Applications
+☁️ Cloud-Based Solutions
+💡 Real-World Problem Solving
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:aravind59758@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Building. Learning. Improving. 🚀</h3>
+
+<p align="center">
+  <i>“Turning ideas into projects, and projects into experience.”</i>
+</p>
