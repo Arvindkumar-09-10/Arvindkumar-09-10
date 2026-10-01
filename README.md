@@ -18,8 +18,7 @@
 * 🎓 B.Tech student specializing in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
 * 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision**
 * 📱 Exploring **Android and Flutter application development**
-* 💻 Experienced with **Python, Java, C, JavaScript and SQL**
-* 🌐 Interested in **Full-Stack Development and Cloud Technologies**
+* 💻 Experienced with **Python, Java, C**
 * 🧠 Currently improving my skills in **AI/ML, Deep Learning and software development**
 * 🚀 I enjoy building practical projects that solve real-world problems
 * 📫 Reach me at **[aravind59758@gmail.com](mailto:aravind59758@gmail.com)**
@@ -69,19 +68,6 @@ Flutter • Dart • Firebase
 
 ---
 
-### 🧠 AI-Based Mental Health Sentiment Analyzer
-
-An AI-focused application concept designed to analyze the sentiment of user-provided text.
-
-**Core Areas:**
-
-* Natural Language Processing
-* Sentiment Analysis
-* Machine Learning
-* AI-powered text analysis
-* Frontend & Backend integration
-
----
 
 ## 🛠️ Languages & Technologies
 
@@ -91,14 +77,11 @@ An AI-focused application concept designed to analyze the sentiment of user-prov
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
 </p>
 
 ### 🤖 AI / ML / Data Science
 
 <p align="left">
-<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/></a>
-<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/></a>
 </p>
@@ -114,23 +97,6 @@ An AI-focused application concept designed to analyze the sentiment of user-prov
 <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
 </p>
 
-### 🗄️ Databases & Cloud
-
-<p align="left">
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/></a>
-<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/></a>
-<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="Google Cloud"/></a>
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-<a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/></a>
-</p>
 
 ---
 
